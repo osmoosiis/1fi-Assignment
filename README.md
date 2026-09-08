@@ -7,7 +7,7 @@ A mobile-responsive prototype of the **1Fi Marketplace** section within the **Sh
 ##  App Preview
 
 
-![1Fi Marketplace Preview](assets/image.png)
+![1Fi Marketplace Preview](1fi-marketplace/assets/image.png)
 
 ---
 
