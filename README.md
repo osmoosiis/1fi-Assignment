@@ -25,7 +25,7 @@ To deliver a fully functional, pixel-perfect, and robust submission within the a
 ## Features Implemented
 
 1. **Top Segmented Navigation:**
-   * `Top Brands` & `Nearby Stores` tabs set as placeholders (blank views) per instructions[cite: 1].
+   * `Top Brands` & `Nearby Stores` tabs set as placeholders (blank views) per instructions.
    * `1Fi Marketplace` tab active with dynamic rendering.
 
 2. **Marketplace Product Listing:**
